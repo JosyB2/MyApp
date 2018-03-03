@@ -1,0 +1,40 @@
+p {
+	color: #1C5682;
+	font-family: Helvetica;
+
+}
+
+h2 {
+	color: #3A86AE;
+}
+
+.superH2 {
+	color: red;
+}
+
+#super {
+	color: orange;
+	font-family: Arial Rounded MT;
+	font-size: 25px;
+}
+
+#super2 {
+	color: white;
+	font-family: Avenir;
+	font-size: 12px;
+}
+
+.banner {
+	text-align: center;
+	margin: 12px ;
+	border: solid;
+	border-radius: 50px;
+	width: 400px;
+	height: 300px;
+}
+
+#footer {
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
