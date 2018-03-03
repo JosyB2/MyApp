@@ -12,6 +12,10 @@ h2 {
 	color: red;
 }
 
+.superH1 {
+	font-family: Helvetica;
+}
+
 #super {
 	color: orange;
 	font-family: Arial Rounded MT;
